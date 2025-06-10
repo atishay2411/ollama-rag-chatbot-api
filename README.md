@@ -62,7 +62,7 @@ You can also use other models like `mistral`, `gemma`, or `llama2`.
 ## Run the App
 
 ```bash
-python app.py
+python -m app.main
 ```
 
 Or, if using Uvicorn directly:
